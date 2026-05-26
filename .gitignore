@@ -1,0 +1,30 @@
+# ==========================================
+# Diabetes Classification Project .gitignore
+# ==========================================
+
+# AI Agents
+.agents/
+graphify-out/
+
+
+# Project Stuff
+architecture.svg
+dataset_explain.md
+masterplan_modelling.md
+archive/
+
+# Python / Jupyter Notebook
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+.env
+.venv/
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
